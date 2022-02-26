@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hussle2motiv8
 - 👀 I’m interested in learning blockchain
 - 🌱 I’m currently just starting
-- 💞️ I’m looking to collaborate on any neew projects that will help me achieve my goals
+- 💞️ I’m looking to collaborate on any new projects that will help me achieve my goals
 - 📫 How to reach me @hussle2motiv8 
 
 <!---
